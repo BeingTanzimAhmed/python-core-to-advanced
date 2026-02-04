@@ -1,0 +1,3 @@
+John Doe is 30 years old. 
+He lives in the USA. 
+He is a software engineer.
